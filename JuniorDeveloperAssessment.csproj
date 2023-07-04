@@ -13,4 +13,8 @@
     <PackageReference Include="System.Configuration.ConfigurationManager" Version="6.0.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Lunar.Domain\Lunar.Domain.csproj" />
+  </ItemGroup>
+
 </Project>

@@ -2,6 +2,7 @@
 using Microsoft.Azure.Cosmos;
 using System.Configuration;
 using System.Net;
+using Lunar.Domain;
 
 namespace NetCore6WithProgram
 {
@@ -29,9 +30,9 @@ namespace NetCore6WithProgram
     // The container we will create.
     private Container container;
 
-    // The name of the database and container we will create
-    // You can change this for the assessment task
-    private string databaseId = "sampledb";
+        // The name of the database and container we will create
+        // You can change this for the assessment task
+        private readonly string databaseId = Data.DatabaseId;
     private string containerId = "myitems";
 
     // <Main>
