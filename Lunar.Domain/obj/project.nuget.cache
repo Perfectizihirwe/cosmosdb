@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "czVrutRADFA3uqPreWO+RPUyR+3Pd9la4UpnwX906ApZEMcuR8VGbKvBWrOfDOALZUhzKoqnSLcEdY5E9g0r3g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Perfect\\Desktop\\ICDL\\Lunar.Domain\\Lunar.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Perfect\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

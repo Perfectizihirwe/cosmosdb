@@ -1,0 +1,12 @@
+C:\Users\Perfect\Desktop\ICDL\Lunar.Domain\bin\Debug\net6.0\Lunar.Domain.deps.json
+C:\Users\Perfect\Desktop\ICDL\Lunar.Domain\bin\Debug\net6.0\Lunar.Domain.dll
+C:\Users\Perfect\Desktop\ICDL\Lunar.Domain\bin\Debug\net6.0\Lunar.Domain.pdb
+C:\Users\Perfect\Desktop\ICDL\Lunar.Domain\obj\Debug\net6.0\Lunar.Domain.csproj.AssemblyReference.cache
+C:\Users\Perfect\Desktop\ICDL\Lunar.Domain\obj\Debug\net6.0\Lunar.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Perfect\Desktop\ICDL\Lunar.Domain\obj\Debug\net6.0\Lunar.Domain.AssemblyInfoInputs.cache
+C:\Users\Perfect\Desktop\ICDL\Lunar.Domain\obj\Debug\net6.0\Lunar.Domain.AssemblyInfo.cs
+C:\Users\Perfect\Desktop\ICDL\Lunar.Domain\obj\Debug\net6.0\Lunar.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Perfect\Desktop\ICDL\Lunar.Domain\obj\Debug\net6.0\Lunar.Domain.dll
+C:\Users\Perfect\Desktop\ICDL\Lunar.Domain\obj\Debug\net6.0\refint\Lunar.Domain.dll
+C:\Users\Perfect\Desktop\ICDL\Lunar.Domain\obj\Debug\net6.0\Lunar.Domain.pdb
+C:\Users\Perfect\Desktop\ICDL\Lunar.Domain\obj\Debug\net6.0\ref\Lunar.Domain.dll
